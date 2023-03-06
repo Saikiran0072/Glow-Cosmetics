@@ -6,14 +6,14 @@ A fully responsive website that can be accessed from your mobile , tablet , lapt
 
 Technical Details : 
       
-              FrontEnd - HTML,CSS
-              BackEnd - JS, PHP
-              Database - PHPmyadmin
-              
+     FrontEnd - HTML,CSS
+     BackEnd - JS, PHP
+     Database - PHPmyadmin
+             
  Team : 
         
-        Sahiti Putcha
-        Satvika Putcha
-        Sai Kiran Peri
+     Sahiti Putcha
+     Satvika Putcha
+     Sai Kiran Peri
               
  Presenting you Glow Cosmetics : 
